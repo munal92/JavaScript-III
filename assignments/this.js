@@ -1,11 +1,11 @@
 /* The for principles of "this";
 * in your own words. explain the four principle for the "this" keyword below.
 *
-* 1. 
-* 2. 
-* 3. 
-* 4. 
-*
+* 1. Window Binding On console with .this we can see everything in browser what javascript created for that
+* 2. Implicit Binding In this principle .this refers to object left of the dot.
+* 3. Explicit Binding  with .apply or .call methods pass a new Object
+* 4. New Binding   with constructor function we can construct a new object
+ *
 * write out a code example of each explanation above
 */
 
